@@ -1,4 +1,4 @@
-# Develop_Python_19_06
+# Capcure_Program_Python_19_06
 practice (2019/06/11 ~ 2019/06/21)
 
 학습시, 스마트기기 활용을 위한 스캔 프로그램
